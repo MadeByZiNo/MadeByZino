@@ -12,9 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**<h3>:bowtie:a computer science student at Myongji University:bowtie:**
+**<h3>:bowtie:a computer science:computer: student at Myongji University:bowtie:**
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jh990517)](https://solved.ac/jh990517/)
 
+**<h2>:bowtie:a computer science student at Myongji University:bowtie:**
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
+
+ <h4>:mail:e-mail: : **jh990517@naver.com**
