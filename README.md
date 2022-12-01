@@ -20,5 +20,6 @@ Here are some ideas to get you started:
 <h4>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=Java&logoColor=white"/>
 </h4>
  <h4>mail:e-mail: : jh990517@naver.com
