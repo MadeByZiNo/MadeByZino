@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <h3>:gem:interest</h3>
 <h4>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Backend-00599C?style=flat-square&logo=&logoColor=white"/>
- <img src="https://img.shields.io/badge/Game-F7DF1E?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Backend-03599C?style=flat-square&logo=&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Game-F1DF1E?style=flat-square&logo=Java&logoColor=white"/>
 </h4>
  <h4>mail:e-mail: : jh990517@naver.com
