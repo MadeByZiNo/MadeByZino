@@ -1,5 +1,3 @@
-a computer science student at Myongji University😄
-
 <!--
 **MadeByZiNo/MadeByZino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+###**a computer science student at Myongji University😄**
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jh990517)](https://solved.ac/jh990517/)
+
+<img src="https://img.shields.io/badge/C++-#C4B73B?style=flat-square&logo=C&logoColor=white"/>
