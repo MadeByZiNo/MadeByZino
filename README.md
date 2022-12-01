@@ -1,4 +1,4 @@
-### Hi there 👋
+a computer science student at Myongji University😄
 
 <!--
 **MadeByZiNo/MadeByZino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
