@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jh990517)](https://solved.ac/jh990517/)
 
-<img src="https://img.shields.io/badge/C++-#C4B73B?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-#C4B73B?style=flat-square&logo=#A8B9CC&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-#C4B73B?style=flat-square&logo=#00599C&logoColor=white"/>
