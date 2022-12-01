@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2>**a computer science student at Myongji University:bowtie:**
+**<h3>a computer science student at Myongji University:bowtie:**
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jh990517)](https://solved.ac/jh990517/)
 
