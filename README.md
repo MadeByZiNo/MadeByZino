@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 <h3>:gem:관심분야</h3>
 <h4>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Backend-03599C?style=flat-square&logo=&logoColor=white"/>
- <img src="https://img.shields.io/badge/Spring-03599C?style=flat-square&logo=&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring Boot-03599C?style=flat-square&logo=&logoColor=white"/>
+<img src="https://img.shields.io/badge/Backend-03599C?style=flat-square&logo=Backend&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-03599C?style=flat-square&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Boot-03599C?style=flat-square&logo=SpringBoot&logoColor=white"/>
 </h4>
 ---
  <h4>mail:e-mail: : jh990517@naver.com</h4>
