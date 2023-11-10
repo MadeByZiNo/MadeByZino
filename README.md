@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3>컴공생임:</h3>
+<h3>컴공생:</h3>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jh990517)](https://solved.ac/jh990517/)
 ---
