@@ -4,7 +4,7 @@
 
 <ul>
   <li>
-    <h3><a href="https://github.com/MadeByZiNo/HealthyGram">HealthyGram</a></h3>
+    <h3><a href="https://github.com/MadeByZiNo/HealthyGram">HealthyGram (~doing)</a></h3>
     <em>Spring Boot, JPA, MySQL</em><br/>
     풀스택 운동기록 피드 SNS
   </li>
