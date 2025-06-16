@@ -4,6 +4,11 @@
 
 <ul>
   <li>
+    <h3><a href="https://github.com/MadeByZiNo/HealthyGram">HealthyGram</a></h3>
+    <em>Spring Boot, JPA, MySQL</em><br/>
+    풀스택 운동기록 피드 SNS
+  </li>
+  <li>
     <h3><a href="https://github.com/MadeByZiNo/ZinoShop">ZinoShop</a></h3>
     <em>Spring Boot, JPA, MySQL</em><br/>
     풀스택 쇼핑몰 개인 프로젝트
