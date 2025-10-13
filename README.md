@@ -3,11 +3,7 @@
 <h2>📌 프로젝트</h2>
 
 <ul>
-  <li>
-    <h3><a href="https://github.com/MadeByZiNo/HealthyGram">HealthyGram (~doing)</a></h3>
-    <em>Spring Boot, JPA, MySQL</em><br/>
-    풀스택 운동기록 피드 SNS
-  </li>
+
   <li>
     <h3><a href="https://github.com/MadeByZiNo/ZinoShop">ZinoShop</a></h3>
     <em>Spring Boot, JPA, MySQL</em><br/>
