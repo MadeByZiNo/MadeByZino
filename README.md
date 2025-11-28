@@ -3,10 +3,15 @@
 <h2>📌 프로젝트</h2>
 
 <ul>
-
+  <li>
+    <h3><a href="https://github.com/MUTSA-TEAM7-FINAL-PROJECT/ConcerTUNE">ConcerTUNE</a></h3>
+    <em>Spring Boot, JPA, PostgreSQL, React, redis</em><br/>
+    풀스택 쇼핑몰 개인 프로젝트
+  </li>
+  <br/>
   <li>
     <h3><a href="https://github.com/MadeByZiNo/ZinoShop">ZinoShop</a></h3>
-    <em>Spring Boot, JPA, MySQL</em><br/>
+    <em>Spring Boot, JPA, MySQL, redis, elastic search</em><br/>
     풀스택 쇼핑몰 개인 프로젝트
   </li>
   <br/>
