@@ -6,7 +6,7 @@
   <li>
     <h3><a href="https://github.com/MUTSA-TEAM7-FINAL-PROJECT/ConcerTUNE">ConcerTUNE</a></h3>
     <em>Spring Boot, JPA, PostgreSQL, React, redis</em><br/>
-    풀스택 쇼핑몰 개인 프로젝트
+    무명 인디밴드를 위한 공연 정보 사이트
   </li>
   <br/>
   <li>
