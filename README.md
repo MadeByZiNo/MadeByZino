@@ -4,6 +4,11 @@
 
 <ul>
   <li>
+    <h3><a href="https://github.com/MadeByZiNo/StockFlow">ConcerTUNE</a></h3>
+    <em>Spring Boot, JPA, PostgreSQL, React, redis, mybatis</em><br/>
+     간단한 재고관리 ERP사이트
+  </li>
+  <li>
     <h3><a href="https://github.com/MUTSA-TEAM7-FINAL-PROJECT/ConcerTUNE">ConcerTUNE</a></h3>
     <em>Spring Boot, JPA, PostgreSQL, React, redis</em><br/>
     무명 인디밴드를 위한 공연 정보 사이트
