@@ -4,7 +4,7 @@
 
 <ul>
   <li>
-    <h3><a href="https://github.com/MadeByZiNo/StockFlow">ConcerTUNE</a></h3>
+    <h3><a href="https://github.com/MadeByZiNo/StockFlow">StockFlow</a></h3>
     <em>Spring Boot, JPA, PostgreSQL, React, redis, mybatis</em><br/>
      간단한 재고관리 ERP사이트
   </li>
