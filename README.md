@@ -4,10 +4,17 @@
 
 <ul>
   <li>
+    <h3><a href="https://github.com/MadeByZiNo/Woojik">Woojik</a></h3>
+    <em>Java/Spring/React/TypeScript/MySQL/influxDB</em><br/>
+     가축(소)관리 시스템
+  </li>
+  <br/>
+  <li>
     <h3><a href="https://github.com/MadeByZiNo/StockFlow">StockFlow</a></h3>
     <em>Spring Boot, JPA, PostgreSQL, React, redis, mybatis</em><br/>
      간단한 재고관리 ERP사이트
   </li>
+  <br/>
   <li>
     <h3><a href="https://github.com/MUTSA-TEAM7-FINAL-PROJECT/ConcerTUNE">ConcerTUNE</a></h3>
     <em>Spring Boot, JPA, PostgreSQL, React, redis</em><br/>
